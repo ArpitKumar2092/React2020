@@ -2,8 +2,6 @@
 Learning React with TDD ( Test Driven Development )
 ROAD MAP TO FULL STACK DEVELOPER
 
-https://roadmap.sh/
-
 Stack 
 
 1) React
@@ -19,5 +17,11 @@ FOR COMMUNICATION We Will Use
 
 1) Zoom Call
 2) Min-Max
+
+
+IMPORTANT LINKS
+
+https://roadmap.sh/
+https://gitexplorer.com/
 
 
