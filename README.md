@@ -8,8 +8,8 @@ Stack
 2) Realy
 3) Graph QL
 4) FOR STYLE
-  1) Styled Component
-  2) CSS In JS
+  a) Styled Component
+  b) CSS In JS
      etc
 
 
