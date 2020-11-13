@@ -25,4 +25,6 @@ https://roadmap.sh/
 
 https://gitexplorer.com/
 
+React source
+https://www.youtube.com/watch?v=b8IcYOV5_Rc
 
